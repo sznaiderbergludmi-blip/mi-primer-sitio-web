@@ -12,7 +12,9 @@
     <title>Mi Perfil Web v2.0 con CSS</title>
 </head>
 /* Tema Vintage / Cálido */
-body {body {
+body {body { h1, h2 {
+    font-family: "Poppins", sans-serif;
+}
     font-family: "Roboto", sans-serif;
 }
     font-family: Georgia, 'Times New Roman', serif;
